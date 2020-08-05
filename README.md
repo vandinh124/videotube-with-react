@@ -1,5 +1,5 @@
 Link: https://5f2b43a1b1c1ab6e2dbe868b--stupefied-stonebraker-c75326.netlify.app/
-[](images/demo.png)
+![](images/demo.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
