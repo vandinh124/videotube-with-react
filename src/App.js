@@ -32,7 +32,7 @@ class App extends React.Component{
         params: {
             part: 'snippet',
             maxResults: 5, 
-            key: 'AIzaSyAuNHxkjjmkdCgWscKSxarM0k-hpTWlOdY',
+            key: 'youtubeAPI',
             q: searchTerm,
         }
         
